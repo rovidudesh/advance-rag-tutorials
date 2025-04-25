@@ -1,0 +1,6 @@
+dotenv
+langchain_google_genai
+chromadb
+#sentence-transformers  #for embedding model
+langchain
+langchain-community
