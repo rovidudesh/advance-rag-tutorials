@@ -1,7 +1,6 @@
 import chromadb
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_google_vertexai import VertexAIEmbeddings
 from langchain.embeddings import HuggingFaceEmbeddings
 import os
 
